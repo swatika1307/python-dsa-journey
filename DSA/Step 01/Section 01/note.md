@@ -1,4 +1,4 @@
-## Part 01 -
+## Section 01 -
 
 - Input & Output:
 1. input() takes user input as a string by default
