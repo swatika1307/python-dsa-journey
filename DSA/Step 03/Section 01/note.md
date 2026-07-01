@@ -6,5 +6,6 @@
 3. Smallest and second smallest element in an array
 4. Check if array is sorted
 5. Remove duplicates in-place from sorted array
+6. Left rotate array by one place
 
 In progress
