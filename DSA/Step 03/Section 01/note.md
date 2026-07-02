@@ -7,5 +7,7 @@
 4. Check if array is sorted
 5. Remove duplicates in-place from sorted array
 6. Left rotate array by one place
+7. Left rotate array by k places
+8. Right rotate array by k places
 
 In progress
