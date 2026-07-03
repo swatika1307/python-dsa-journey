@@ -9,5 +9,10 @@
 6. Left rotate array by one place
 7. Left rotate array by k places
 8. Right rotate array by k places
+9. Move all zeros to the end
+10. Linear search
+11. Union of sorted arrays
+12. Intersection of sorted arrays
+13. Missing number
 
 In progress
