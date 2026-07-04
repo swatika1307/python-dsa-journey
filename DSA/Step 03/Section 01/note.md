@@ -14,5 +14,7 @@
 11. Union of sorted arrays
 12. Intersection of sorted arrays
 13. Missing number
+14. Maximum consecutive ones
+15. Find the number that appears once, and other numbers twice
 
 In progress
