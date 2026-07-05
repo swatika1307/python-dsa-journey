@@ -16,5 +16,7 @@
 13. Missing number
 14. Maximum consecutive ones
 15. Find the number that appears once, and other numbers twice
+16. Longest subarray with sum K (positives)
+17. Longest subarray with sun K (positives + negatives)
 
 In progress
