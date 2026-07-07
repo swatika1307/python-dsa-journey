@@ -19,4 +19,4 @@
 16. Longest subarray with sum K (positives)
 17. Longest subarray with sun K (positives + negatives)
 
-In progress
+Completed
