@@ -11,5 +11,7 @@
 8. Rearrange elements different size
 9. Next permutation
 10. Leaders in an array
+11. Longest consecutive subsequence
+12. Set matrix zeros
 
 In progress
